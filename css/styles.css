@@ -300,7 +300,7 @@ p { line-height: 1.65; }
 .pricing .section-sub { color: var(--lavender-100); }
 .pricing-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 24px;
 }
 .price-card {
